@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>BMW_3-Series_2014_32_17_180_20_4_71_56_182_24_RWD_5_4_4dr_npU.jpg</filename>
+	<path>C:\Users\saman\OneDrive\桌面\4\DL\aidlws08\JPEGImages\BMW_3-Series_2014_32_17_180_20_4_71_56_182_24_RWD_5_4_4dr_npU.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>294</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

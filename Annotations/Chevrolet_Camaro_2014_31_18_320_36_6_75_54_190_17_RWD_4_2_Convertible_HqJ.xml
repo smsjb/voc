@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Chevrolet_Camaro_2014_31_18_320_36_6_75_54_190_17_RWD_4_2_Convertible_HqJ.jpg</filename>
+	<path>C:\Users\saman\OneDrive\桌面\4\DL\aidlws08\JPEGImages\Chevrolet_Camaro_2014_31_18_320_36_6_75_54_190_17_RWD_4_2_Convertible_HqJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>40</ymin>
+			<xmax>284</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

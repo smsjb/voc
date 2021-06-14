@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Acura_MDX_2011_42_18_300_37_6_78_68_191_16_AWD_7_4_SUV_Eyo.jpg</filename>
+	<path>C:\Users\saman\OneDrive\桌面\4\DL\aidlws08\JPEGImages\Acura_MDX_2011_42_18_300_37_6_78_68_191_16_AWD_7_4_SUV_Eyo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>11</ymin>
+			<xmax>277</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
